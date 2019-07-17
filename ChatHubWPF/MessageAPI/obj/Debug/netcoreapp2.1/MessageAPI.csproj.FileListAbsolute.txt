@@ -1,0 +1,14 @@
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\bin\Debug\netcoreapp2.1\MessageAPI.deps.json
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\bin\Debug\netcoreapp2.1\MessageAPI.runtimeconfig.json
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\bin\Debug\netcoreapp2.1\MessageAPI.runtimeconfig.dev.json
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\bin\Debug\netcoreapp2.1\MessageAPI.dll
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\bin\Debug\netcoreapp2.1\MessageAPI.pdb
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\obj\Debug\netcoreapp2.1\MessageAPI.csprojAssemblyReference.cache
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\obj\Debug\netcoreapp2.1\MessageAPI.csproj.CoreCompileInputs.cache
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\obj\Debug\netcoreapp2.1\MessageAPI.RazorAssemblyInfo.cache
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\obj\Debug\netcoreapp2.1\MessageAPI.RazorAssemblyInfo.cs
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\obj\Debug\netcoreapp2.1\MessageAPI.AssemblyInfoInputs.cache
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\obj\Debug\netcoreapp2.1\MessageAPI.AssemblyInfo.cs
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\obj\Debug\netcoreapp2.1\MessageAPI.RazorTargetAssemblyInfo.cache
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\obj\Debug\netcoreapp2.1\MessageAPI.dll
+C:\Users\arenz\source\repos\ChatHubWPF\MessageAPI\obj\Debug\netcoreapp2.1\MessageAPI.pdb

@@ -1,0 +1,14 @@
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\bin\Debug\netcoreapp2.1\UpdateInfoAPI.deps.json
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\bin\Debug\netcoreapp2.1\UpdateInfoAPI.runtimeconfig.json
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\bin\Debug\netcoreapp2.1\UpdateInfoAPI.runtimeconfig.dev.json
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\bin\Debug\netcoreapp2.1\UpdateInfoAPI.dll
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\bin\Debug\netcoreapp2.1\UpdateInfoAPI.pdb
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\obj\Debug\netcoreapp2.1\UpdateInfoAPI.csprojAssemblyReference.cache
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\obj\Debug\netcoreapp2.1\UpdateInfoAPI.csproj.CoreCompileInputs.cache
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\obj\Debug\netcoreapp2.1\UpdateInfoAPI.RazorAssemblyInfo.cache
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\obj\Debug\netcoreapp2.1\UpdateInfoAPI.RazorAssemblyInfo.cs
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\obj\Debug\netcoreapp2.1\UpdateInfoAPI.AssemblyInfoInputs.cache
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\obj\Debug\netcoreapp2.1\UpdateInfoAPI.AssemblyInfo.cs
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\obj\Debug\netcoreapp2.1\UpdateInfoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\obj\Debug\netcoreapp2.1\UpdateInfoAPI.dll
+C:\Users\arenz\source\repos\ChatHubWPF\UpdateInfoAPI\obj\Debug\netcoreapp2.1\UpdateInfoAPI.pdb
